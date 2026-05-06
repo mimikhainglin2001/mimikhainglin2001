@@ -74,9 +74,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚌 **Online Bus Ticket Booking System** | A full-featured bus booking platform | Laravel, PHP, MySQL |
+| 🚌 **Library Management System** | A full-featured bus booking platform | PHP, MySQL, Docker |
 | 🌐 **Laravel Portfolio Website** | Personal portfolio built with Laravel | Laravel, PHP, CSS |
-| 📋 **Training Management System** | System to manage employee training records | ASP.NET, C#, MySQL |
+| 📋 **Training Management System** | System to manage employee training records | Laravel, PHP, MySQL, Docker |
 
 ---
 
